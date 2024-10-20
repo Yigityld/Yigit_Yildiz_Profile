@@ -1,5 +1,3 @@
-# Yigit_Yildiz_Profile
-
 
 # Merhaba, Ben Yiğit! 👋
 
