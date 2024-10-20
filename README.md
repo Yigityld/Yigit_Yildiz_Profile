@@ -1,6 +1,19 @@
 # Yigit_Yildiz_Profile
 
-Selam ben Yiğit Yıldız!
+
+# Merhaba, Ben Yiğit! 👋
+
+Ben bir Bilgisayar Mühendisliği öğrencisi ve Yapay Zeka alanında kendimi geliştiriyorum. 🧠
+
+## Hakkımda:
+- 🔭 Şu anda üzerinde çalıştığım projeler: [Projelerim]
+- 🌱 İlgi alanlarım: Yapay Zeka, Görüntü İşleme, Flutter
+- 📫 Bana ulaşın: yigit@example.com
+
+## Beceri Setim:
+- 🖥️ Programlama Dilleri: Python, C++, Flutter
+- 🤖 Yapay Zeka ve Derin Öğrenme
+- 🕹️ Gamepad ile kontrol sistemleri
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yigityld)](https://git.io/streak-stats)
 
