@@ -1,20 +1,27 @@
 
-# Merhaba, Ben Yiğit! 👋
+# Hello, I'm Yiğit! 👋
 
-Ben bir Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve Yapay Zeka alanında derinlemesine bilgi ve becerilerimi geliştirmek için sürekli çalışıyorum. 🧠
+I am a 4th-year Computer Engineering student, continuously working to deepen my knowledge and skills in the field of Artificial Intelligence. 🧠
 
-## Hakkımda:
-- ## 🔭 Şu Anda Üzerinde Çalıştığım Projeler:
-- **Sualtı Aracı Projesi**: Simülasyon ortamında gerçek hayatlı görevlerle ilgili bir proje yapıyorum. Bu proje, sualtı keşif ve görev uygulamalarını içeriyor.
-- 🌱 İlgi alanlarım: Yapay Zeka, Görüntü İşleme, Flutter
-- 📫 Bana ulaşın: yigity4002@gmail.com
+## About Me:
+### 🔭 Current Projects:
+- **Underwater Vehicle Project**: I am working on a project related to real-life tasks in a simulation environment. This project involves underwater exploration and mission applications.
 
-## Beceri Setim:
-- 🖥️ Programlama Dilleri: Python, C++, Flutter
-- 🤖 Yapay Zeka ve Derin Öğrenme
-- 🖼️ Görüntü İşleme
-- 📱 Mobil Geliştirme
-- 🕹️ Gamepad ile kontrol sistemleri
+### 🌱 My Interests:
+- Artificial Intelligence
+- Image Processing
+- Flutter
+
+### 📫 Reach me at:
+- yigity4002@gmail.com
+
+## Skills:
+- 🖥️ Programming Languages: Python, C++, Flutter
+- 🤖 Artificial Intelligence and Deep Learning
+- 🖼️ Image Processing
+- 📱 Mobile Development
+- 🕹️ Control systems with gamepad
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yigityld)](https://git.io/streak-stats)
