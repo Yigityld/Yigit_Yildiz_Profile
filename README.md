@@ -4,7 +4,7 @@
 Ben bir Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve Yapay Zeka alanında derinlemesine bilgi ve becerilerimi geliştirmek için sürekli çalışıyorum. 🧠
 
 ## Hakkımda:
-- 🔭 ## Şu Anda Üzerinde Çalıştığım Projeler:
+- ## 🔭 Şu Anda Üzerinde Çalıştığım Projeler:
 - **Sualtı Aracı Projesi**: Simülasyon ortamında gerçek hayatlı görevlerle ilgili bir proje yapıyorum. Bu proje, sualtı keşif ve görev uygulamalarını içeriyor.
 - 🌱 İlgi alanlarım: Yapay Zeka, Görüntü İşleme, Flutter
 - 📫 Bana ulaşın: yigity4002@gmail.com
