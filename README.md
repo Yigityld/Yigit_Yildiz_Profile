@@ -1,7 +1,7 @@
 
 # Merhaba, Ben Yiğit! 👋
 
-Ben bir Bilgisayar Mühendisliği öğrencisi ve Yapay Zeka alanında kendimi geliştiriyorum. 🧠
+Ben bir Bilgisayar Mühendisliği 4. sınıf öğrencisiyim ve Yapay Zeka alanında derinlemesine bilgi ve becerilerimi geliştirmek için sürekli çalışıyorum. 🧠
 
 ## Hakkımda:
 - 🔭 ## Şu Anda Üzerinde Çalıştığım Projeler:
