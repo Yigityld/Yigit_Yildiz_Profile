@@ -27,7 +27,7 @@ Here are the tools and technologies I'm passionate about and frequently use in m
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-v3-23A617?style=for-the-badge&logo=yolo&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v8-23A617?style=for-the-badge&logo=yolo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
