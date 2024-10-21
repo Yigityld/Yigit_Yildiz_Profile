@@ -25,7 +25,7 @@ I am a 4th-year Computer Engineering student, continuously working to deepen my 
 ## Technologies & Tools
 Here are some of the technologies I love working with:
 
-![Technologies and Tools](![image](https://github.com/user-attachments/assets/77616b90-9e0e-4e8b-9b17-bf9123c9171d, ![image](https://github.com/user-attachments/assets/e7602c60-ca70-45de-8c0f-1e34b891793c , )
+![Technologies and Tools](![image](https://github.com/user-attachments/assets/77616b90-9e0e-4e8b-9b17-bf9123c9171d
 )
 )
 
